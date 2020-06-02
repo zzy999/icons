@@ -1,0 +1,11 @@
+{
+  "mode": {
+    "symbol": {
+      "dest": ".",
+      "sprite": "bootstrap-icons.svg"
+    }
+  },
+  "svg": {
+    "namespaceClassnames": false
+  }
+}
